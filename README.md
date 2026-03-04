@@ -6,7 +6,7 @@ The file MatFacReg_1.0.0.0.tar.gz contains the R package for running Matrix-Vari
 
 ## GHG data ##
 
-The file GHG_data.RData contains data for N=174 countries observed over the six years 2015–2020.
+The file GHG data.RData contains data for N=174 countries observed over the six years 2015–2020.
 The response array, Y, includes measurements of carbon dioxide (CO₂), methane (CH₄), and nitrous oxide (N₂O) emissions for each country in each year.
 Hence, Y is a 3 x 6 x 174 array, where the dimensions correspond to variables, years, and countries, respectively.
 

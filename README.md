@@ -4,7 +4,7 @@
 
 The file MatFacReg_1.0.0.0.tar.gz contains the R package for running Matrix-Variate-Cluster-Weighted-Bilinear-Factor-Analyzers. A help description for each argument supports each function.
 
-## GHG_data ##
+## GHG data ##
 
 The file GHG_data.RData contains data for N=174 countries observed over the six years 2015–2020.
 The response array, Y, includes measurements of carbon dioxide (CO₂), methane (CH₄), and nitrous oxide (N₂O) emissions for each country in each year.
